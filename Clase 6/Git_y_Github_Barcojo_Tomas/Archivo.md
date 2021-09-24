@@ -8,7 +8,7 @@
 
 ## CHEATSHEET <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-First Header  | Second Header
+Descripcion  | Comando
 ------------- | -------------
 Clonar un repo bien cheto  | git clone
 Crear nuevo repo  | git init
