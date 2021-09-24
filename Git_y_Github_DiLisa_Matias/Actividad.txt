@@ -1,0 +1,3 @@
+a. Linus Torvalds fue el inventor del sistema Git y en un primer momento lo hizo con el fin de continuar el desarrollo del kernel de linux. Aunque luego se expandio para convertirse en el control de versiones que conocemos hoy, con un fuerte hincapie en el desarrollo colectivo.
+b. Github actualmente pertenece a Microsoft 
+c. 
