@@ -1,0 +1,8 @@
+a) Git es un sistema de control de versiones, fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del
+ kernel de Linux.
+
+b) Git es un software libre distribuible bajo los términos de la versión 2 de la Licencia Pública General de GNU,
+ Esto es porque se actualiza a travez de contribuciones aportadas por programadores, pero es supervisada por
+ Junio Hamano.
+
+c) Si, podes subir archivos directamente desde la interfaz grafica de la  pagina de github
