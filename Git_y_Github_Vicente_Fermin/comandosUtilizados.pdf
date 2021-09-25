@@ -5,4 +5,5 @@ git clone "" (clona los archivos de un repositorio remoto ya existente)
 git push origin "" (carga los archivos al repo remoto en el que estemos trabajando a la rama seleccionada)
 git pull origin "" (descarga los ultimos archivos del repositorio remoto al local)
 git remote add origin "" (vincula un repositorio remoto con uno local)
+git commit -m "" (sirve para crear un punto especificando el cambio realizado, en caso de que ocurra un error este te permite volver a una copia anterior del proyecto)
 
