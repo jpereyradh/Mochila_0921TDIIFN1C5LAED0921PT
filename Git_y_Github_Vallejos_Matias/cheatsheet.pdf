@@ -1,0 +1,5 @@
+git status: verifica el estado de los archivos / directorios
+git commit: commitear un archivo / directorio - git commit nombre_archivo -m "mensaje del commit"
+git rm -r directorio: remueve el directorio y los archivos que contiene 
+git pull: actualiza el repositorio local segun el repositorio remoto
+git branch nuevaBranch_nombre: crea una nueva branch 
