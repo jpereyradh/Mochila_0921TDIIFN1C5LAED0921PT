@@ -1,4 +1,0 @@
-a) Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
-Al principio se penso como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o Front End como Cogito o StGIT.
-b) Actualmente Github es propiedad de Microsoft, ya que al hacerse con el control de este, se hace con la comunidad de desarrollo mas nutrida del planeta.
-c) 
