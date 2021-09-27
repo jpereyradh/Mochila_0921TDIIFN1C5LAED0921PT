@@ -14,5 +14,6 @@ GIT BRANCH : muestra cuantas ramas creamos y en cual estamos posicionados
 GIT PULL : permite descargar todos los cambios que se esten realizando en el repositorio remoto
 GIT MERGE + "NOMBRE" : para unir ramas 
 GIT BRANCH -d + "NOMBRE" :para eliminar ramas 
-
+GIT BRANCH -D + "NOBRE" : forzar a eliminar una rama
+GIT LOG : muestra un registro de nuestros commits 
 
