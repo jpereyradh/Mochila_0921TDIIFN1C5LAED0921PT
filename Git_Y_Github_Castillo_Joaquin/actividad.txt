@@ -1,7 +1,0 @@
-Respuestas:
-
-A. Hoy en día, Git es, con diferencia, el sistema de control de versiones moderno más utilizado del mundo. Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
-B. Lo compro porque tenia la plata
-C. En GitHub se trabaja desde la pagina web o desde la terminal de Git
-
-XO
