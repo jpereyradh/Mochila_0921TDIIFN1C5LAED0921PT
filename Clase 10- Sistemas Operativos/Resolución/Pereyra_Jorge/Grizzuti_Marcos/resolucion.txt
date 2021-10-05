@@ -1,0 +1,11 @@
+El comando DF informa sobre la cantidad de espacio en disco que utiliza el sistema de archivos
+El comando TOP averiguar el estado de tu servidor, proporcionándote información sobre la carga actual, el número de días que lleva encendido sin reiniciarse, el número de usuarios conectados por SSH, y en definitiva, información sobre tu servidor en tiempo real.
+
+ACtividad 2:
+
+1- Linux Mint es un sistema operativo muy moderno; su desarrollo inició en 2006. Sin embargo, está basado en capas de software muy maduras y aprobadas, incluyendo el kernel (núcleo) Linux, las herramientas GNU y el escritorio Cinnamon
+2 - Si, es open source
+3 - Ctrl + Alt + T
+4 - Si se puede, ya que es un sistema de interfaz grafica.
+5 - No, no hay
+6 - Imagen: https://www.google.com/search?q=linux+mint+explorador+de+archivos%7D&sxsrf=AOaemvISK2zNIiu35cSUwJeHLSsVbon0lw:1633472902487&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiG4OjgqLTzAhWKrpUCHbLCA38Q_AUoAXoECAEQAw&biw=1920&bih=880&dpr=1#imgrc=b1eJ9LGkVIQCgM
