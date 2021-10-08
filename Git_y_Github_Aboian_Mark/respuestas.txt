@@ -1,3 +1,0 @@
-1)Git fue inventado por Linus Torvalds en 2005 y su proposito es llevar registro de los cambios de los archivos y coordinar el trabajo de varias personas que realizan en los mismos.
-2)GitHub le pertenece a Microsoft, para el acercamiento a la comunidad mas vibrante en el desarrollo de software libre y abierto
-3)No, no se puede.
