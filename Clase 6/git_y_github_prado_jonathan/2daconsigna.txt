@@ -1,0 +1,19 @@
+GIT INIT: inicia/crea un repositorio
+GIT CONFIG --GLOBAL USER.NAME"<NOMBRE>" : nombre de usuario identificacion para mas adelante hacer seguimiento
+GIT CONGIG --GLOBAL USER.EMAIL"<Email>" : email de usuarios para asociar a para mas adelante hacer seguimiento
+GIT REMOTE ADD ORIGIN : indicamos con que repositorio queremos sincronizar
+GIT REMOTE -V:nos muesta con que repositorio esta binculado
+TOUCH: crea un archivo
+GIT ADD: prepara un archivo al q se va empaquetar
+GIT COMMIT -m "<descripcion>":empaqueta el archivo             
+GIT PUSH ORIGIN MAIN : sube un archivo al repositorio remoto "main"
+GIT STATUS : para verificar si hay  archivos subidos o no.
+GIT BRANCH + "NOMBRE" : crea una rama         
+GIT CHECKOUT + "NOMBRE" : se cambia de rama segun el nombre
+GIT BRANCH : muestra cuantas ramas creamos y en cual estamos posicionados
+GIT PULL : permite descargar todos los cambios que se esten realizando en el repositorio remoto
+GIT MERGE + "NOMBRE" : para unir ramas 
+GIT BRANCH -d + "NOMBRE" :para eliminar ramas 
+GIT BRANCH -D + "NOBRE" : forzar a eliminar una rama
+GIT LOG : muestra un registro de nuestros commits 
+
