@@ -1,0 +1,4 @@
+a) Linus Torvalds inventó git para ser utilizado en el desarrollo del Kernel de Linux
+b) Github pertenece a Microsoft porque la compró
+c) Si desde la web. Si pones .dev en la url se te abre un editor de texto como el de vscode.
+
