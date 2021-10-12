@@ -4,5 +4,3 @@ Github fue desarrollado por Chris Wanstrath, P. J. Hyett, Tom Preston-Werner y S
 
 Se invento como medio de gestionar parches y colaboraciones en el código del kernel Linux.
 
-
-prueba merge...
