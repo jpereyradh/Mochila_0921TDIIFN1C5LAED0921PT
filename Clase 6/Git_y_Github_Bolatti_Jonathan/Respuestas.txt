@@ -1,0 +1,17 @@
+
+A: Quien invento el sistema de control de version de Git y por que?
+respuesta: fue inventado por linus en el 2005 para ser utilizado en el desarrollo del kernel de linux
+
+
+B: A quien pertenece actualmente Github y por que?
+actualmente GitHub pertenece a microsoft  
+
+C: hay otra forma que no sea la terminal para trabajar con GitHub??
+respuesta: si, existen otras formas de trabajar con GitHub sin la terminal
+y puede ser a travez de la aplicacion web, dentro de nuestro proyecto podemos
+realizar las acciones necesarias para poder subir nuestras actualizaciones, 
+mergear, resolver conflictos o pullear sin introducir un solo comando en
+la consola, tambien existe una aplicacion de escritorio donde podemos gestionar
+nuestros proyectos en el repositorio tanto local como remoto.
+
+
