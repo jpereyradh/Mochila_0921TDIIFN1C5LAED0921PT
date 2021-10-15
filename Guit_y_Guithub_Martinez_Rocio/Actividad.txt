@@ -1,0 +1,3 @@
+a)Lo inventario Tom Preston y Chris Wanstrath para que los desarrolladores alojen proyectos creando repositorios gratis
+b)Pertenece a Microsoft ya que lo compre
+c)Si, desde github desktop.
