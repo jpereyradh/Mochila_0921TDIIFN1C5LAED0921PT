@@ -1,0 +1,3 @@
+a. Lo invento Tom Preston y Werner Chris Wanstrath PJ Hyett para que los desarrolladores alojen proyectos creando repositorios de forma gratuita.
+b. Pertenece actualmente a Microsoft porque lo compro
+c. si, con GitHub Desktop
