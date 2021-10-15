@@ -1,0 +1,1 @@
+El comando borra todos los arhivos de tu disco.
