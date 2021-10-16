@@ -1,0 +1,44 @@
+Comandos mas utilizados:
+git init: Inicia Repositorio local
+git config user.name: Configura nombre de usuario de GitHub por unica vez
+git config user.email: Configura email utilizado en GitHub por unica vez
+git config --global user.name: Configura nombre de usuario de GitHub para todos los proyectos
+git config --global user.email: Configura email de GitHub para todos los proyectos
+git add NombreArchivo: Agrega un nuevo archivo al repo local de Git
+git add . : Agrega todos los archivos al repo local de Git
+git status: Obtiene el estado actual de todos los archivos y carpetas que se encuentran en el repo
+git commit -m "mensaje": Guarda los cambios realizados en el repo de forma versionada
+git remote add origin <rutaRepo>: Apunta al repo remoto
+git push origin <branch>: Envia los datos a la rama del repositorio remoto en la que estemos conectados
+git clone <rutarepo>: Clona el repositorio de la nube a nivel local. Se ejecuta una sola vez cuando los archivos no se encuentran en la pc en la que este trabajando
+git remote -v: Este comando nos indica si estamos conectados al repo remoto
+	show origin: permite ver la indo de los repos remotos
+	rename origin nombre_nuevo: renombre repo remoto
+	rm nombre_git: desvincula repo remoto
+git pull origin <branch>: Sirve para actualizar todos los archivos que hayan sufrido alguna modificacion
+git branch: enumera todas las ramas del repositorio. Similar a git branch --list
+git branch <branch>: crea una nueva rama llamada <branch>
+git branch -d <branch>: Elimina la rama llamada <branch>. Git evita que eliminemos la rama si tiene cambios que aun no se han fusionado con la rama Main
+git branch -D <branch>: Fuerza la eliminación de la rama incluso si hay cambios sin fusionad
+git checkout nombre_rama: Sirve para moverse entre ramas. Si existen cambios pendientes debemos Eliminarlos deshaciendo los mismos o Confirmarlos haciendo un commit
+git help: ayuda de git
+git help <comando>: Ayuda de algun comando
+git config --global --unset user.name "usuario":Elimina todos los registros que se refieren al usuario
+git rm archivo: Borra archivo
+git rm -r directorio: Borra directorio con todos sus archivos dentro
+git log: muestra el historial de cambios
+git log --<ruta>: Historial de un archivo especifico
+git log --author=usuario: Historial de un usuario
+git checkout --archivo: Deshace cambios en repo local
+git reset HEAD archivo: Deshace cambios cuando se añadio el archivo al area temporal
+git checkout nombre_archivo: Realiza cambio de directorio
+git fetch: obtiene los cambios pero no los aplica en el branch actual
+git checkout -b nuevaBranch: Crea nueva Branch y apunta a ella
+git merge nuevaBranch: hace el merge entre las Branch. Debo estar en el branch que debe recibir los cambios
+git branch -d nuevaBranch: Apaga una rama
+git branch -v: lista las ramas con los ultimos commits
+git branch --merged: lista ramas ya unidas a la rama principal o main
+git branch --no-merged: lista de ramas que no se unieron aun a la rama principal
+git merge --abort o git reset --merge: deshace merge cuando tenemos problemas con la union de ramas
+git reset HEAD: Para volver a un commit anterior. Si queremos volver a mas de un commit por ejemplo HEAD2
+git commit --ammend -m "mi nuevo mensaje": Cambia los mensajes del commit
