@@ -1,0 +1,5 @@
+- Matilda AMD Ryzen 5 3600 ya que es un procesador con mas nucleos mas cache y una gpu integrada radeon
+
+- Hermano mayor AMD A8 9600 es un poco menos potente que el anterior pero su gpu onboard es suficiente para los trabajos de renderizado
+
+- Marcelo Intel i3 3230 un procesador ya descontinuado pero eficiente en cuanto a nucles y velocidades de procesamiento, no requiere graficas asi que su simple gpu es suficiente para procesamientos logicos

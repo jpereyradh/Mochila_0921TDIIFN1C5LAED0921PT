@@ -1,0 +1,5 @@
+1- Descargamos el archivo "Ejercicio Base.drawio.svg"
+2- Ingresamos a https://app.diagrams.net/
+3- Abrimos el archivo antes descargado.
+4- Resolver la consigna allí planteada.
+5- Subir la resolución en Formato HTML
