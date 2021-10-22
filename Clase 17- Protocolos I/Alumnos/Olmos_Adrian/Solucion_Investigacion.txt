@@ -1,0 +1,7 @@
+1.R/-
+
+	- IP publica: 181.61.204.9
+	- IP privada y Mascara de subred: 192.168.1.14 y 255.255.255.0
+	- Dirección MAC: 24-4B-FE-4C-84-BB
+
+2.R/-  Con la dirección MAC se puede saber la marca de la tarjeta madre que se tiene en el dispositivo. 
