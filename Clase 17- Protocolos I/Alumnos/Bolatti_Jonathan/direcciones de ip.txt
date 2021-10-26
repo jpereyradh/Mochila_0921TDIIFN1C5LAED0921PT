@@ -1,0 +1,47 @@
+
+
+ip publica
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::646e:89dd:d7f6:ffe3%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+
+
+ip privada
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::ad6e:a674:cc14:fd72%11
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.108
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+
+SSID:	TP-Link_6DE0
+Protocolo:	Wi-Fi 4 (802.11n)
+Tipo de seguridad:	WPA2-Personal
+Banda de red:	2,4 GHz
+Canal de red	3
+Velocidad de vínculo (recepción/transmisión):	150/150 (Mbps)
+Dirección IPv6 del vínculo local:	fe80::ad6e:a674:cc14:fd72%11
+Dirección IPv4:	192.168.0.108
+Servidores DNS IPv4:	192.168.0.1
+Fabricante:	Realtek Semiconductor Corp.
+Descripción:	Realtek RTL8723DE 802.11b/g/n PCIe Adapter
+Versión del controlador:	2024.0.10.220
+Dirección física (MAC):	9C-30-5B-E1-3D-95
+
+¿ La IP pública y privada de qué clase son ? 
+Dirección IPv4:
+
+
+¿ Qué información puedo obtener de la dirección MAC? , vamos a acceder a 
+https://macvendors.com/ y verificar que marca de placa de red tenemos.
+
+Enter a MAC Address
+9C-30-5B-E1-3D-95
+Hon Hai Precision Ind. Co.,Ltd.
