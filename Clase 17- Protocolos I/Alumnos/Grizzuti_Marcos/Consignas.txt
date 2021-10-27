@@ -1,0 +1,3 @@
+Direccion IP Priv: 192.468.66.1
+Direccion IP Publica: 266.266.266.0
+Direccion MAC: B4-2E-99-66-D6-93
