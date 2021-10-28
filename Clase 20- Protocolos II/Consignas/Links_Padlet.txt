@@ -1,9 +1,5 @@
-Representar 2 ejemplos del modelo OSI, el primero de ellos se podrá elegir una analogía de la vida cotidiana, el segundo se necesita que represente 
-un concepto informático a libre elección de los grupos. 
-
-* Subir a la mochila en un formato a elegir por el grupo.
-* Se puede reutilizar los padlet para invocar protocolos.  
-
+En esta ocasión deberemos tomar lo que hicimos en la clase 17, y agregar al menos 10 mas. Opcionalmente podremos tomar los protocolos que trabajan en el moddelo TCP/IP 
+y decir en que capa podría funcionar..
 
 
 Grupo 1:https://padlet.com/PedagogiaDH/dcrbyp5ywdm6ble2
