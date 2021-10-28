@@ -1,0 +1,5 @@
+? Dirección IP Pública : 170.51.101.138  - CLASE B
+? Dirección IP Privada y su Máscara de subred: CLASE C
+dirección PIv4: 192.168.56.1  
+Mascara de subred: 255.255.255.0
+? Dirección MAC: 4C-72-B9-93-1F-05
