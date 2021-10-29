@@ -1,0 +1,28 @@
+
+Capa de aplicación: Ofrece la posibilidad de acceder a los servicios de las demás capas
+y define los protocolos que utilizan las aplicaciones para intercambiar datos.
+
+Capa de presentación: Se encarga de darle el diseño del remitente al correo,
+y que sea reconocible por el destinatario.
+
+Capa de sesión: Se encarga de mantener y controlar 
+el enlace establecido entre los dos ordenadores.
+
+Capa de transporte: Se encarga de transportar los datos del 
+correo desde el ordenador del remitente al ordenador del destinatario.
+
+Capa de red: Se encarga de comprobar si existe comunicación
+entre el remitente y el destinatario.
+
+Enlace de datos: Se encarga de que la dirección de correo (del destinatario) 
+sea la correcta y de que esté escrita por el remitente.
+
+Enlace de datos: Se encarga de que la dirección de correo (del destinatario) 
+sea la correcta y de que esté escrita por el remitente.
+
+Capa física: Es la encargada de que cada dato que se envía 
+en el correo viaje por los entornos de red utilizados.
+
+
+
+
