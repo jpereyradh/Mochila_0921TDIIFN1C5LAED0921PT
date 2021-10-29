@@ -1,0 +1,3 @@
+1- Cada sistema operativo debe tenes su version compilada. Por ejemplo un programa realizado en C++ puede funcionar en un procesador x86 pero no en uno con ARM. O puede funcionar en Linux pero no en Windows.
+2- Es una maquina virtual de sistema.
+3- Yo creo que no, debido a que al instalar una VM el disco es particionado, por lo que no habria ninguna conexion entre estas.
