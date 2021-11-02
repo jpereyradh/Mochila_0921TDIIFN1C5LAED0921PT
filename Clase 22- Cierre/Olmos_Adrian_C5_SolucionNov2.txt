@@ -1,0 +1,22 @@
+	- Zoom: TCP (80, 443, 8801, 8802)  UDP (3478,3479)
+	- Discord: WWS (443)
+	- Google Meet: UDP y TCP (443)
+	- WhatsApp Web: TCP: (53, 443, 5222, 5223, 5228), UDP (53, 3478)
+	- MySQL: TCP (3306)
+	- Git: SSH (9418)
+	- SSL: TCP (443)
+	- http:	HTTP (80)
+	- VirtualBox: HTTP (8080)
+	- VPN: Depende del servidor VPN, Algunos usan el TCP 1723 otros el UDP 500, etc.
+	- Microsoft Outlook: IMAP (993)  POP (995) SMTP (587)
+	- FTP: FTP (20, 21)
+	- Microsoft Word: TCP (443, 1433)
+	- Skype: TCP (443), UDP (3478 - 3481 y entre el 50000-60000)
+	- Epic Games: 80, 433, 443, 3478, 3479, 5060, 5062, 5222, 6250, y entre 12000-65000
+	- FIFA21: el de PS4 usa TCP (1935, Entre 3478-3480, 3659, 10000-10099, 42127) UDP )3074, Entre 3478-3479, 3659, 6000)
+	- Spotify: TCP (80, 443, 445, 3445, 1400, 3400, 3401, 3500, 4070, 4444) UDP (136, 139, 1900, 1901, 2869, 10280, 10284, 5353, 6969)
+	- TeamViewer: TCP/UDP (5938)
+	- Netflix: SSL (443)
+	- Fortnite: usa los mismos puertos que epic games (80, 433, 443, 3478, 3479, 5060, 5062, 5222, 6250, y 12000-65000)
+	- Valorant: UDP (entre 7000-7500) TCP (entre 8393 - 8400, 2099)
+	- League of Legends: 80,443,2099,5222,5223, entre 5000-5500,entre 8393-8400
