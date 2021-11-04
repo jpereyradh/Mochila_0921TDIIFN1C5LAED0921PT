@@ -1,0 +1,4 @@
+1 por la compatibilidad depene del software y hardware q dispone
+2 virtual box seria maquina virtual de sistema : software que permite ejecutar otro sistema operativo en su interior
+3 no afecta a las demas maquinas xq son softwares que funcionan independientes una de otras  no tinen relacion entre ellas
+
