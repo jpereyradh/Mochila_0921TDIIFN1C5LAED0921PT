@@ -1,4 +1,0 @@
-Preuguntas:
-a. Linus Torvalds y lo creo para el trabajo colaborativo
-b. Git pertenece a Microsoft
-c. Tal vez gestionando todo desde la pagina web

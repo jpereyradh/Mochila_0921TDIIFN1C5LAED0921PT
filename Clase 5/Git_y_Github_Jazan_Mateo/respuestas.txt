@@ -1,5 +1,0 @@
-1 Linus trovalds invento GIT para ayudar al desarrollo del kernel de linux
-
-2Microsoft compre gitHub para aumentar su uso empresarial y traer las herramientas de desarrollo de mic a mas desarrolladores
-
-3 Si, existen herramientas de GUI para usar GIT
