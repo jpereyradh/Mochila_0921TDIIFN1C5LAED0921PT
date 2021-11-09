@@ -1,0 +1,11 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Respuesta: Los sistemas operativos son creados con algún lenguaje de programación de Bajo Nivel o sea ceros y unos. Basicamente, son la versión compilada de dicho lenguaje, el cual puede generar incompatibilidad con otros lenguajes a la hora de programar.
+
+¿Qué tipo de máquina virtual es virtualBox?
+
+Respuesta: Virtualbox es una maquina virtual de tipo 2 para poder utilizar sistemas operativos en nuestra computadora.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+Respuesta: No afectaria a las demas maquinas virtuales, porque cada maquina virtual es independiente.
