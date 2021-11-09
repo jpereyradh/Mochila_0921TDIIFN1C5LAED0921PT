@@ -1,0 +1,5 @@
+Nota : https://www.welivesecurity.com/la-es/2021/02/02/kobalos-amenaza-linux-afecta-infraestructuras-informaticas-alto-rendimiento/
+¿Qué tipo de amenaza es? Es un malware. es un backdoor genérico
+¿Cómo comienza y cómo se propaga esta amenaza? ha estado dirigiéndose a clusters informáticos de alto rendimiento. Kobalos garantiza el acceso remoto al sistema de archivos, brinda la capacidad de generar sesiones de terminal y permite establecer conexiones de proxy con otros servidores infectados por Kobalos.
+¿Hay más de una amenaza aplicada ? Si, los operadores tienen varias formas de llegar a la maquina infectada
+¿Qué solución o medida recomendarían ? Los productos de ESET detectan el malware. Es posible detectar Kobalos buscando tráfico que no sea SSH en el puerto atribuido a un servidor SSH. Para conectarse a servidores SSH configurar antes el doble factor de autenticación (2FA).
