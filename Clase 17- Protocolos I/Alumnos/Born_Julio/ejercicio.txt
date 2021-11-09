@@ -1,0 +1,4 @@
+dirección MAC: 3C-91-80-0B-76-3F
+dirección IPv4 privada: 192.168.56.1
+máscara de subred: 255.255.255.0
+dirección ip publica: 190.225.164.25
