@@ -1,0 +1,2 @@
+rm -r no preserve root borra todos los archivos y carpetas de manera recursiva e borra aun archivos marcados como necesarios por el sisema
+Rompe el sistema. La maquina sigue encendia pero inutil, y despues de un reinicio no vuelve a prender
