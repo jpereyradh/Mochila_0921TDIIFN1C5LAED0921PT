@@ -1,4 +1,0 @@
-dirección MAC: 98:01:a7:bd:24:d1 --> La marca de placa de red es Apple, Inc.
-dirección IPv4 privada: 192.168.0.109 --> clase c
-mascara subred: 255.255.255.0
-dirección ip publica: 190.247.9.103 --> clase c

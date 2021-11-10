@@ -1,4 +1,0 @@
-
-Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.111(Preferido)
-
- Vínculo: dirección IPv6 local. . . : fe80::8036:26ad:c7ff:996f%18(Preferido)

@@ -1,5 +1,0 @@
-a.- Fue inventado por Linus Torvalds ara ser utilizado en el desarrollo del kernel de Linux. Git es un software escrito en C, con interfaz por lí­nea de comandos, disponible para Windows, MacOS X y GNU/Linux. En la actualidad, existen además multitud de clientes gráficos y herramientas basadas en git.
-b.- Pertenece a Microsoft
-c.- Hay multiples formas, mediante otros softwares o terminales.
-
-
