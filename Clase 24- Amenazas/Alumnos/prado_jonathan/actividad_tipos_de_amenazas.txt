@@ -1,12 +1,25 @@
-1- Que tipo de amenaza es? kobalos backdoor troyano
-2- Como comienza y como se propaga esta amenaza ?
- Kobalos garantiza el acceso remoto al sistema de archivos, brinda la capacidad de generar sesiones de terminal y permite establecer conexiones de proxy con otros servidores infectados por Kobalos.
+equipo4: https://www.welivesecurity.com/la-es/2021/02/02/kobalos-amenaza
+-linux-afecta-infraestructuras-informaticas-alto-rendimiento/
 
-Los operadores tienen varias formas de llegar a una máquina infectada con Kobalos. El método que más hemos visto es en el cual Kobalos está embebido en el ejecutable del servidor OpenSSH (sshd) y activará el código del backdoor si la conexión proviene de un puerto de origen TCP específico. Hay otras variantes independientes que no están embebidas en sshd. Estas variantes o se conectan a un servidor C&C que actuará como intermediario o esperan una conexión entrante en un puerto TCP determinado.
+1- Que tipo de amenaza es? se llama kobalos backdoor fue descubierto recientemente ataca a los servidores de linux clusters informaticos de alto rendimiento(hpc) y es portable muchos sistemas operativos BSD, Solaris,AIX y Windows
+ roba las credenciales SSH , permite ocultal la intencion de los atacantes (hackers)
+2- Como comienza y como se propaga esta amenaza ? 
+Cualquiera que use el cliente SSH de una máquina comprometida tendrá sus credenciales capturadas.
+Estas credenciales podrán entonces ser usadas por los atacantes para instalar Kobalos en los nuevos servidores que se descubrieron más tarde.
+ 
+ Kobalos garantiza el acceso remoto al sistema de archivos, brinda la capacidad de generar sesiones de terminal 
+ y permite establecer conexiones de proxy con otros servidores infectados por Kobalos.
 
-Algo que hace único a Kobalos es el hecho de que el código para ejecutar un servidor de C&C está en el propio Kobalos. Los operadores pueden convertir cualquier servidor comprometido por Kobalos en un servidor de C&C enviando un simple comando. Como las direcciones IP y los puertos del servidor C&C están hardcodeados en el ejecutable, los operadores pueden generar nuevas muestras de Kobalos que utilizan este nuevo servidor de C&C.
+Los operadores tienen varias formas de llegar a una máquina infectada con Kobalos.
+ El método que más hemos visto es en el cual Kobalos está embebido en el ejecutable del servidor OpenSSH (sshd) y
+ activará el código del backdoor si la conexión proviene de un puerto de origen TCP específico. 
+Hay otras variantes independientes que no están embebidas en sshd.
+Estas variantes o se conectan a un servidor C&C que actuará como intermediario o esperan una conexión entrante en un puerto TCP determinado.
 
-El compañero
-3- Hay mas de una amenaza aplicada?
+Algo que hace único a Kobalos es el hecho de que el código para ejecutar un servidor de C&C está en el propio Kobalos. 
+Los operadores pueden convertir cualquier servidor comprometido por Kobalos en un servidor de C&C enviando un simple comando. 
+Como las direcciones IP y los puertos del servidor C&C están hardcodeados en el ejecutable, los operadores pueden generar nuevas muestras de Kobalos que utilizan este nuevo servidor de C&C.
+
+3- Hay mas de una amenaza aplicada? no
 4- que solucion o medida recomiendan?
  la forma para evitar esta amenaza es configurar la autenticacion de doble factor(2FA)para poder conectarse con los servidores ssh
