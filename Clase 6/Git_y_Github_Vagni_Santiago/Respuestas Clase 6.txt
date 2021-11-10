@@ -1,0 +1,6 @@
+a) Git es un sistema de control de versiones, fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del
+ kernel de Linux.
+
+b) GitHub Actualmente pertenece a Microsoft, porque el 4 de junio de 2018 Microsoft lo compró por la cantidad de 7500 millones de dólares
+
+c) Si, podes subir archivos directamente desde la interfaz grafica de la  pagina de github
