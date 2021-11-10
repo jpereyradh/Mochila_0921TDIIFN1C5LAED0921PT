@@ -1,0 +1,3 @@
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Si. Existe la aplicacion de escritorio. Ademas la mayoria de los IDE posee Extenciones para integrar la herramienta git.
