@@ -1,0 +1,3 @@
+1. Porque dependerá de cómo esté programado el sistema operativo
+2. Es una VM de sistema, es decir que permite virtualizar el sistema operativo completo, y no solo algunos procesos
+3. No, justamente esta es una de las mayores ventajas de las VM
