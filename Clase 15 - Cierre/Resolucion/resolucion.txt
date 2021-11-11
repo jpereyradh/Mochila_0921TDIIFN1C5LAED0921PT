@@ -1,0 +1,4 @@
+1 - Debido a la incompatibilidad los lenguajes no funcionan en algunos SO.
+2 - La Virtual Box es una maquina virtual de sistemas.
+3 - Creeria que si una maquina virtual se rompe y tengo otras instaladas, las otras no deberian afectarse debido a que son independientes una de otra.. salvo que haya sido instalada una maquina virtual dentro de otra maquina virtual y lka que se haya roto sea la primera con lo cual la hija dejaria de funcionar
+
