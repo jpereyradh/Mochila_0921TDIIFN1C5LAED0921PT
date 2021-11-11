@@ -1,0 +1,22 @@
+Zoom usa los puertos TCP: 80, 443, 8801, 8802 y UDP: 3478, 3479, 8801.
+Discord usa el puerto TCP: 443.
+Google meet usa el puerto TCP/UDP 443.
+Whatsapp web usa los puertos TCP: 53, 443, 5222, 5223 y UDP: 53, 3478.
+MySQL utiliza el puerto 3306.
+Git usa el puerto TCP: 9418.
+SSL usa el puerto TCP: 443.
+HTTP usa el puerto 80.
+Virtualbox usa el puerto 8080.
+VPN usa el puerto TCP: 1701 y UDP: 1194.
+Microsoft Outlook usa el puerto IMAP: 993.
+FTP usa el puerto 21 para comunicarse y conectarse a un servidor y 20 para transferencia de archivos.
+Word usa el puerto 443.
+Skype usa el puerto TCP: 443 y UDP: 3478, 3481.
+Epic Games usa los puertos 80, 443, 3478, 3479.
+Fifa 21 usa el 1935, 3478, 3659, 3480, 10000.
+Spotify usa el 80, 443, 445, 3445, 4070.
+Teamviewer usa el puerto 5938.
+Netflix usa el puerto 443, 53, 80.
+VScode usa el puerto 6910.
+Google Chrome usa el puerto 9100.
+Tor usa el puerto 9001.
