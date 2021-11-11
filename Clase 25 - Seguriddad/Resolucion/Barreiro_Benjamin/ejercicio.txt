@@ -1,0 +1,9 @@
+La empresa tiene un estado de seguridad precario.
+
+Plan de seguridad a seguir:
+Restringir el acceso a informacion sensible mediante contraseñas
+Encriptar la informacion sensible
+Implementar antivirus y firewalls para protección del sistema
+Hacer una copia de seguridad de la informacion sensible en algun servicio seguro en la nube.
+Tener un UPS en caso de que haya un apagón
+Incluir un sistema redundante por si llega a fallar el servicio de backup en la nube y el original.
