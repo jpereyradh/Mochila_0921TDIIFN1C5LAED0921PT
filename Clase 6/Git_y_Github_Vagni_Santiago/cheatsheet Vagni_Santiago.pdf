@@ -1,0 +1,16 @@
+Git init = Inicia un repositorio
+Git config user.name = Configuras el nombre de usuario
+Git config user.email = Configura el mail que va a aparecer en los commits
+Git add (Nombre de archivo) = Agrega archivos o carpeta untrackeada a la staging area
+Git add . = Agrega todos los archivos y/o carpetas untrackeadas a la staging area
+Git Status = Muestra el estado del repositorio 
+Git Commit -m = Dejas un mensaje en el cual escribis brevemente lo que hiciste.
+Git log = Muestra el historial de los Commits
+Git log -p = Muestra el historial de commits incluyendo archivos y modificaciones
+Cd = Se usa para navegar por las carpetas
+Git branch branch_name = Se usa para crear una rama
+Git checkout branch_name = Se usa para cambiar la rama   
+Git merge branch_name = Une la rama en la que estas con la que le indicas en el comando
+Git push = Se usa para subir tu trabajo al repositorio en GitHub
+Git pull = Se usa para bajar los ultimos cambios del repositorio de GitHub
+
