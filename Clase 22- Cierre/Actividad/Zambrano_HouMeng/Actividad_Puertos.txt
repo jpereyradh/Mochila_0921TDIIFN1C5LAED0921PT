@@ -1,0 +1,13 @@
+MySQL: 3306
+Git: 9418
+SSL: 443
+HTTP: 80
+Zoom: 8091, 390, 20000-64000
+Discord: Puertos desde 50000 a 6553
+Google Meet: Puertos 19302-19309 y 443.
+Whatsapp: Puertos 53, 443, 5222, 5223, 5228, 3478.
+Virtual Box: Puerto 8080, a través del mismo accede al puerto 80 PPTP: utiliza el puerto 1723 TCP. ... L2TP: utiliza el puerto 1701 con TCP. ... IPSec / IKEv2: usa los puertos 500 y 1500 UDP, tendremos que abrir ambos puertos. Microsoft Outlook: Puertos 993, 995, 465, 110, 143, 587, 2525, 8025
+FTP: Puerto 20 y 21
+TeamViewer: Puerto 5938
+Netflix: 443
+Spotify: 4070.

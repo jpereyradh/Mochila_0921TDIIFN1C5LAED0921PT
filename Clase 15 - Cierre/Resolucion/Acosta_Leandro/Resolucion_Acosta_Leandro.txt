@@ -1,0 +1,7 @@
+1) ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no? El lenguale de programacion se puede escribir en cualquier editor de texto pero al momento de ejecutarlo se debe realizar dentro del sistema operativo compatible.
+
+2) ¿Qué tipo de máquina virtual es virtualBox? VirtualBox es una aplicación que sirve para hacer maquinas virtuales con instalaciones de sistemas operativos. Esto quiere decir que si tienes un ordenador con Windows, GNU/Linux o incluso macOS, podes crear una maquina virtual con cualquier otro sistema operativo para utilizarlo dentro del que estás usando.
+
+3) Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a los demás?¿por qué? No las afecta ya que corren en un entorno virtual diferente.
+
+4) Subir este archivo a la mochila del viajero desde la máquina virtual.
