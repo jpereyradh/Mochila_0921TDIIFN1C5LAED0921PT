@@ -1,0 +1,3 @@
+a_ Git es un sistema de control de versiones distribuido que fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+b_ Github pertenece a Microsoft ya que la empresa lo compro.
+c_ La unica forma para trabajar con Github es atraves de Git.
