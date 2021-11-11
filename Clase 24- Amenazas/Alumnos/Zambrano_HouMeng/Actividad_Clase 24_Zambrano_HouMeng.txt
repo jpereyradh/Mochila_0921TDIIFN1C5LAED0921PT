@@ -1,0 +1,20 @@
+¿Cual es el link?
+https://www.welivesecurity.com/la-es/2021/06/10/backdoordiploma
+cy-actualizando-quarian-turian-backdoor-utilizado-contra-organizac
+iones-diplomaticas/
+
+¿que tipo de amenaza es ?
+Es un troyano llamado backdoor, es una secuencia especial dentro del codigo de programacion, por la cual se pueden evitar los antivirus o sistemas de seguridad del algoritmo para acceder al sistema.
+
+¿Como comienza y como se propaga?
+
+Se introducen al sistema gracias a otras amenzas como virus o spywares. Accenden al administrador y luego ifectan las sessiones de todos los usuarios conectados a la red que este ataca.
+Los usuario pueden instalar accidentalmente backdors en sus dispositivos, ya que este puede venir en conjunto con aplicaciones de intercambio de datos como por ejemplo mensajes de correo electronicos.
+Se usan para la explotacion de sistemas repomoto, con debil seguridad especifica, en los equipos de red.
+
+¿Hay mas de una ameza aplciada?
+No
+
+¿Que solucion recomendarian ?
+A empresas a invertir en buenos sistemas anti-malware, que ofrezcan tegnologias anti amenazas.
+Tambien recomendamos tener un back up de la data importante en discoduros rigidos
