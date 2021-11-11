@@ -1,0 +1,3 @@
+1R/- Un lenguaje de programacion solo puede usarse en determinados sistemas operativos porque depende de la arquitectura que maneje cada computadora en cuestion, En caso de los que se pueden ejecutar en cualquier sistema operativo, como es el caso de java, esto se logra porque se ejecuta mediante una maquina virtual del lenguaje. 
+2R/- VirtualBox es una maquina virtual de tipo "de sistema" puesto que permite emular sistemas operativos
+3R/- No, eso no afecta a las demas porque precisamente es una maquina virtual, cuando se rompe o daña algo solo hace falta borrarla y si es pertinente reinstalarla de nuevo
