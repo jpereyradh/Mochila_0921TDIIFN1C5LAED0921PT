@@ -1,0 +1,3 @@
+1. Seguridad pobre, sin respaldo, todos pueden ver la informacion, sitio web abierto al publico suceptible a ataques externos.
+3. Primero, generar accesos de distinto nivel, segundo, hacer backups de la informacion, 
+tercero, educar a los empleados en phishing para que no sean una vulnerabilidad, cuarto, encriptar la informacion para que solo la persona que lo necesita lo pueda hacer, quinto, reforzar la seguridad del sitio, para dar mas confianza a los clientes, y resguardar los activos de la empresa ante ataques externos, sexto, sistema de alarma o camaras en el rack del servidor.
