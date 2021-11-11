@@ -1,0 +1,5 @@
+Un lenguaje de programacion se puede programar en cualquier computadora con un editor de texto.
+La comptabilidad depende de como sea compilado o interpretados segun correesponda.
+VirtualBox NO es una maquina virtual. Administra VMs de sistema.
+No deberia, en teoria son independientes. Dicho esto, se puede romper de muchas formas distintas y no es imposible que afecte mas alla de la virtualizacion.
+
