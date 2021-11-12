@@ -1,0 +1,3 @@
+El usuario root en linux es el usuario que tiene todos los permisos
+Ubuntu tiene muchos usuarios nuevos y que no este por default prevee que usuarios hagan comandos que requieran permisos sin darse cuenta (lo deben hacer con sudo)
+Podes ver los procesos con HTOP en la terminal
