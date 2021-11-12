@@ -1,0 +1,1 @@
+No saque screen en el momento, pero el participante B podria hacer un git pull, trayendo los cambios del participante A y ahi poder realizar los cambios y subirlos al repositorio remoto
