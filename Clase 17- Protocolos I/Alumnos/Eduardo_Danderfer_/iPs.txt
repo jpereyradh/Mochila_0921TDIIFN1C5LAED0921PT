@@ -1,0 +1,5 @@
+Dirección física. . . . . . . . . . . . . : 54-E1-AD-5A-ED-48
+Marca . . . . . . . . . . . . . . . . . . :LCFC(HeFei) Electronics Technology co., ltd
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.48
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+Dirección ip pública. . . . . . . . . . . : 191.83.129.74
