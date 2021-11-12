@@ -1,0 +1,24 @@
+zoom: TCP 443
+discord: TCP 443
+google meet: TCP 443 - UDP 19302-19309
+whatsapp web: TCP 443 y 80
+my sql: TCP 3306
+git: 9418/TCP
+secure sockets layer: TCP 443
+http: TCP 80
+virtual box: TCP 22, 443, 4489, 18083
+VPN: 1723TCP 1194 - UDP 500, 1701 Y 4500
+microsoft outlook: 443/80 TCP
+FTP: puerto 21
+microsoft word: 443/80 TCP
+skype: 443/TCP - 3478-3481/UDP
+epic games: 0, 433, 443, 3478, 3479, 5060, 5062, 5222, 6250 y 12000-65000
+fifa21: TCP 1935, 3478-3480, 3659, 10000-10099, 42127
+spotify: TCP 4070
+team viewer: puerto 5938
+netflix: 443/TCP
+
+extras:
+youtube: puerto 1935
+twitch: puerto 1935
+amazon videos: TCP 80 - UDP 6036
