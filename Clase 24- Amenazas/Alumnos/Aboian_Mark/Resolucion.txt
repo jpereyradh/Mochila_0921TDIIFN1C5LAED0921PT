@@ -1,0 +1,19 @@
+Nota : https://www.welivesecurity.com/la-es/2021/05/11/ataque-ransomware-compania-oleoducto-colonia-pipeline-afecta-suministro-combustible-estados-unidos/
+
+¿Qué tipo de amenaza es? 
+El ransomware es un software extorsivo: su finalidad es impedirte usar tu dispositivo hasta que hayas pagado un rescate.
+Existen, básicamente, dos clases de ransomware: el ransomware de bloqueo, por un lado, y el ransomware de cifrado, por el otro. Se diferencian de este modo:
+
+el ransomware de bloqueo afecta las funciones básicas del equipo,
+el ransomware de cifrado cifra archivos individuales.
+
+
+¿Cómo comienza y cómo se propaga esta amenaza? 
+Las maneras más comunes de contraer una infección de ransomware son visitar un sitio web malicioso, abrir un adjunto maligno o descargar software con agregados indeseables
+
+¿Hay más de una amenaza aplicada ?
+
+¿Qué solución o medida recomendarían ?
+La primera —que definitivamente no se recomienda— es pagar el dinero del rescate. 
+La segunda opción, preferible a la primera, es intentar eliminar el ransomware. 
+Si este intento no da fruto, queda solo una opción: dejar el dispositivo en cero, como si fuera recién comprado.

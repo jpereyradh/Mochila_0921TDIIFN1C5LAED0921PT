@@ -1,3 +1,0 @@
-a - El creador es Linus Torvalds y lo creo para poder compartir sus trabajos con sus colegas.
-b - El dueño actual es Microsoft.
-c - Se puede gestionar a traves del navegador web.

@@ -1,0 +1,14 @@
+¿Quien invento Git? y¿por que?
+
+Github fue desarrollado por Chris Wanstrath, P. J. Hyett, Tom Preston-Werner y Scott Chacon usando Ruby on Rails, y empezó
+en 2008. Se invento como medio de gestionar parches y colaboraciones en el código del kernel Linux.
+
+¿A quién pertenece actualmente Github y por qué?
+
+Git Hub es el mayor repositorio de código del mundo es punto de encuentro para millones de desarrolladores, y esa es 
+precisamente la clave. Con el control de GitHub, Microsoft se hace también con la comunidad de desarrollo más nutrida del
+planeta.
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Si. Existe la aplicacion de escritorio. Ademas la mayoria de los IDE posee Extenciones para integrar la herramienta git.
