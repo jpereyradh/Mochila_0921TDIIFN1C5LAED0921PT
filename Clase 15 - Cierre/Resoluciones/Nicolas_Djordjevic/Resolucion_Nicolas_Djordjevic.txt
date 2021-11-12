@@ -1,0 +1,4 @@
+
+1) El lenguaje debe estar codificado en el mismo idioma que el sistema operativo.
+2) Virtual Box es una maquina virtual de sistema.                              
+3) No, cada máquina virtual funciona de manera independiente.
